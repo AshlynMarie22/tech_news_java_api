@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/tech_news_java_api/tech_news_java_api.iml" filepath="$PROJECT_DIR$/tech_news_java_api/tech_news_java_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/technews.iml" filepath="$PROJECT_DIR$/.idea/technews.iml" />
     </modules>
   </component>
